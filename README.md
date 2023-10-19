@@ -1,6 +1,10 @@
 # Media-Analysis
 This project uses Natural Language Processing to gain insight into 12 mainstream media’s attitudes towards 5 geopolitical entities (USA, China, Taiwan, Russia, and Ukraine) at the end of 2022.
 
+# Models
+Bert
+Naive Bayes
+
 # Results
 ![My Image](Results/USA.png)
 ![My Image](Results/PRChina.png)
